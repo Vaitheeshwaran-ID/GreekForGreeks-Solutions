@@ -11,7 +11,7 @@ class Solution {
         return true;
        }
        else{
-        rturn false;
+        return false;
        }
     }
 }
