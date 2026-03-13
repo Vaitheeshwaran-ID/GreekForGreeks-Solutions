@@ -26,10 +26,10 @@ for(int i=0;i<p;i++){
     }
 }
 
-int cst1 = c1 * gc + c2 * pc;
+int cost1 = c1 * gc + c2 * pc;
             int cst2 = c1 * pc+ c2 * gc;
 
-            System.out.println(Math.min(cst1, cst2));
+            System.out.println(Math.min(cost1, cst2));
 
 }
     }
